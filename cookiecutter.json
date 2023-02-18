@@ -1,0 +1,5 @@
+{
+    "project_name": "fastapi-cookiecutter",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    "version": "0.0.1"
+}

@@ -1,0 +1,10 @@
+[MASTER]
+
+disable=
+    C0114,  #  module level docstring
+    C0115   # class level docstring
+
+
+ignore=migrations,.venv
+
+ignore-patterns=test_.*?py
